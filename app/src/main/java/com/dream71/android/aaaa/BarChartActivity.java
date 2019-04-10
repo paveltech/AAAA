@@ -34,6 +34,22 @@ public class BarChartActivity extends AppCompatActivity {
 
 
         values1.add(new BarEntry(0, 0));
+        values1.add(new BarEntry(1, 1));
+
+
+
+        values2.add(new BarEntry(0, 0));
+        values2.add(new BarEntry(1, 1));
+
+
+
+        values3.add(new BarEntry(0, 0));
+        values3.add(new BarEntry(1, 1));
+
+
+        values4.add(new BarEntry(0, 0));
+        values4.add(new BarEntry(1, 1));
+
 
 
         BarDataSet set1, set2, set3, set4;
